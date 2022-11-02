@@ -3,7 +3,7 @@
 
 
 @font-face {
-    font-family: 'sukhumvit_set';
+    font-family: 'sukhumvit_setbold';
     src: url('sukhumvit_bold-webfont.woff2') format('woff2'),
          url('sukhumvit_bold-webfont.woff') format('woff');
     font-weight: normal;
@@ -15,7 +15,7 @@
 
 
 @font-face {
-    font-family: 'sukhumvit_set';
+    font-family: 'sukhumvit_settext';
     src: url('sukhumvit_text-webfont.woff2') format('woff2'),
          url('sukhumvit_text-webfont.woff') format('woff');
     font-weight: normal;
